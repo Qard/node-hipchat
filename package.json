@@ -2,7 +2,7 @@
   "author": "Stephen Belanger <admin@stephenbelanger.com> (http://stephenbelanger.com)",
   "name": "hipchat",
   "description": "Full-featured HipChat interface",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://stephenbelanger.com",
   "repository": {
     "type": "git",
