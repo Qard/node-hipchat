@@ -2,13 +2,15 @@
   "author": "Stephen Belanger <admin@stephenbelanger.com> (http://stephenbelanger.com)",
   "name": "hipchat",
   "description": "Full-featured HipChat interface",
-  "version": "0.0.2",
+  "version": "0.0.2-2",
   "homepage": "http://stephenbelanger.com",
   "repository": {
     "type": "git",
     "url": "git://github.com/Qard/node-hipchat.git"
   },
-  "engines": { "node": "*" },
+  "engines": {
+    "node": "*"
+  },
   "dependencies": {},
   "devDependencies": {}
 }

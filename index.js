@@ -1,4 +1,4 @@
-var http = require('http')
+var http = require('https')
   , qstring = require('querystring')
 
 // Create API section handlers.
@@ -134,7 +134,7 @@ var request = function (method, path, data) {
   // Build options object.
   var options = {
     host: 'api.hipchat.com'
-    , port: 80
+    , port: 443
     , path: path + '?' + qstring.stringify(query)
     , method: method
     , headers: {
